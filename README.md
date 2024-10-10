@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I'm a detail-oriented Data Analyst and MIS Executi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishverma21&layout=compact&theme=radical)
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishverma21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishverma)
 
 ## 📈 GitHub Projects
 
